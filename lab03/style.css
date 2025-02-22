@@ -1,0 +1,15 @@
+header {
+background-color: rgb(221, 198, 178);
+color:rgb(10, 9, 9);
+font-size: 16px
+}
+body {
+background-color: rgb(150, 147, 120);
+color:rgb(0, 0, 0)
+}
+#CssBasics {
+    background-color: rgb(236, 234, 230);
+}
+.HtmlBasics {
+    background-color: rgb(236, 234, 230);
+}
