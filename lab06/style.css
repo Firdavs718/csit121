@@ -1,0 +1,30 @@
+header {
+background-color: aquamarine;
+font-size: 25px;
+text-align: center;
+}
+
+h1 {
+background-color: aquamarine;
+text-align: center;
+}
+
+body {
+    background-color: rgb(46, 179, 219);
+}
+
+ul {
+    background-color: rgb(127, 214, 255);
+    border: 2px solid black;
+
+}
+
+footer {
+    text-align: center;
+    margin-top: 440px;
+    background-color: rgb(127, 214, 255);
+}
+
+img {
+ width: 800px;   
+}
