@@ -1,0 +1,51 @@
+h1 {
+color:rgb(16, 123, 245);
+    text-align: center;
+
+}
+h2 {
+    color:rgb(16, 123, 245);
+        text-align: center;
+}
+
+body {
+    background-color: rgb(204, 226, 240);
+}
+
+.animeTierList {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 20px;
+    min-width: 250px
+}
+.animeTierList thead tr {
+    background-color: rgb(128, 179, 236);
+    text-align: left;
+}
+
+.animeTierList th,
+.animeTierList td {
+padding: 12px 15px;
+border: 2px solid;
+}
+
+table {
+    border-bottom: 1px;
+}
+.animeTierList tbody tr {
+border: 2px solid;
+}
+
+nav {
+text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin-top: 400px; 
+}
+
+img {
+    width:150px;
+    margin-bottom: 5px;
+    margin-top: 5px; }
