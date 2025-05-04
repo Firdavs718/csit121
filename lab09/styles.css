@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #466ce9
+}
+
+th {
+    background-color: #001868;
+    color: rgb(230, 75, 13);
+}
+
+.button {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    border: 4px solid rgb(0, 0, 0);
+    background: rgba(0, 230, 210, 0.5);
+    color: rgb(3, 0, 1);
+    outline: none;
+    border-radius: 30px;
+    font-size: 30px;
+    width: 500px;
+
+}
+
+.button:hover {
+    color: black;
+    background: rgb(184, 59, 59);
+}
