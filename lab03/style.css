@@ -1,0 +1,37 @@
+h1 {font-size: 30px;
+background-color: rgb(119, 183, 98);}
+
+h3, h4 {
+    font-size: 20px;
+}
+
+body {background-color: rgb(112, 119, 89);
+font-family: 'Times New Roman', Times, serif;
+color:black}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 16px;}
+
+a {
+    color: rgb(7, 7, 66)
+}
+
+#important {
+    background-color: rgb(119, 183, 106);
+}
+
+.More_info {
+    font-size: 15px;
+font-weight: bold;
+}
+
+#reflection03 {
+    font-weight: bold;
+font-size: 16px;
+}
+
+#reflection02 {
+    font-weight: bold;
+font-size: 16px;
+}
