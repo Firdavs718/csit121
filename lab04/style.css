@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(97, 144, 246);
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 25px;
+}
+
+#published {
+    font-size: 14.5px;
+}
+
+
+.controllers {
+    width: 400px;
+}
+
+footer {
+    margin-top: auto;
+    padding: 15px;
+}
+
+.current {
+color: rgb(20, 3, 74);
+font-weight: bold;
+}
+
+.storygame {
+    width: 325px;
+}
+
+.ps {
+    width: 350px;
+
+}
+
+body {
+
+background-image: url('images/back.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+p {
+   color: aliceblue; 
+}
