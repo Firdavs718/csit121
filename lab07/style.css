@@ -1,0 +1,70 @@
+body {
+    background-color: rgba(136, 161, 207, 0.194);
+}
+
+.forHonor {
+    width: 130px;
+    margin: auto;
+    display: block;
+    height: 100px;
+}
+
+.gta {
+    width: 92px;
+    margin: auto;
+    display: block;
+    height: 100px;
+}
+
+
+th, tr, td {
+    border: 1px solid black;
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.rdr {
+     width: 92px;
+    margin: auto;
+    display: block;
+    height: 100px;
+}
+
+tr:nth-of-type(even) {
+    background-color: rgb(116, 112, 112);
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 25px;
+}
+
+.current {
+color: rgb(20, 3, 74);
+font-weight: bold;
+}
+
+form {
+    width: 400px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+label {
+    display: block;
+}
+
+@media (min-width: 750px) {
+    body {
+        align-items: center;
+    }
+}
