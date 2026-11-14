@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(97, 144, 246);
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 25px;
+}
+
+#published {
+    font-size: 14.5px;
+}
+
+
+.controllers {
+    width: 400px;
+}
+
+footer {
+    margin-top: auto;
+    padding: 15px;
+}
+
+.current {
+color: rgb(20, 3, 74);
+font-weight: bold;
+}
+
+.storygame {
+    width: 325px;
+}
+
+.ps {
+    width: 350px;
+
+}
+
+body {
+
+background-image: url('images/back.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+p {
+   color: aliceblue; 
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    background-color: rgb(42, 96, 213);
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.4s;
+}
+
+.sidenav a {
+    display: block;
+    padding: 12px 24px;
+    color: rgb(232, 236, 239);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
